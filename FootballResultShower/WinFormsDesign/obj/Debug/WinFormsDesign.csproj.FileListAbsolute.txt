@@ -1,0 +1,173 @@
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.exe.config
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.exe
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.pdb
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\bin\Debug\hr\WinFormsDesign.resources.dll
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\bin\Debug\Utilities.dll
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\bin\Debug\RestSharp.dll
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\bin\Debug\Utilities.pdb
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\bin\Debug\RestSharp.xml
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.AssemblyReference.cache
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MainForm.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TeamForm.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TypeOfConnectionForm.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.Properties.Resources.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.GamesUC.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerCardsUC.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerGoalsUC.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerUC.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MainForm.hr.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TeamForm.hr.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TypeOfConnectionForm.hr.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.GamesUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerCardsUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerGoalsUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.GenerateResource.cache
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.CoreCompileInputs.cache
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\hr\WinFormsDesign.resources.dll
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.CopyComplete
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.exe
+C:\Users\asim2\Desktop\Provjere\finalniWinForm\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.pdb
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.exe.config
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.exe
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.pdb
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\bin\Debug\hr\WinFormsDesign.resources.dll
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\bin\Debug\Utilities.dll
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\bin\Debug\RestSharp.dll
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\bin\Debug\Utilities.pdb
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\bin\Debug\RestSharp.xml
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.AssemblyReference.cache
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MainForm.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TeamForm.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TypeOfConnectionForm.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.Properties.Resources.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.GamesUC.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerCardsUC.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerGoalsUC.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerUC.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MainForm.hr.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TeamForm.hr.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TypeOfConnectionForm.hr.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.GamesUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerCardsUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerGoalsUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.GenerateResource.cache
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.CoreCompileInputs.cache
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\hr\WinFormsDesign.resources.dll
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.CopyComplete
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.exe
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.pdb
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MessageRes.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MessageRes.hr.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.exe.config
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.exe
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.pdb
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\bin\Debug\hr\WinFormsDesign.resources.dll
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\bin\Debug\Utilities.dll
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\bin\Debug\RestSharp.dll
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\bin\Debug\Utilities.pdb
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\bin\Debug\RestSharp.xml
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.AssemblyReference.cache
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MainForm.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MessageRes.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TeamForm.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TypeOfConnectionForm.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.Properties.Resources.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.GamesUC.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerCardsUC.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerGoalsUC.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerUC.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MainForm.hr.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MessageRes.hr.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TeamForm.hr.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TypeOfConnectionForm.hr.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.GamesUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerCardsUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerGoalsUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.GenerateResource.cache
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.CoreCompileInputs.cache
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\hr\WinFormsDesign.resources.dll
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.CopyComplete
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.exe
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.pdb
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.exe.config
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.exe
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.pdb
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\hr\WinFormsDesign.resources.dll
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\Utilities.dll
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\RestSharp.dll
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\Utilities.pdb
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\RestSharp.xml
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.AssemblyReference.cache
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MainForm.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MessageRes.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TeamForm.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TypeOfConnectionForm.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.Properties.Resources.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.GamesUC.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerCardsUC.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerGoalsUC.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerUC.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MainForm.hr.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MessageRes.hr.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TeamForm.hr.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TypeOfConnectionForm.hr.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.GamesUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerCardsUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerGoalsUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerUC.hr.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.GenerateResource.cache
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.CoreCompileInputs.cache
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\hr\WinFormsDesign.resources.dll
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.CopyComplete
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.exe
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.pdb
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.exe.config
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.exe.manifest
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.application
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.exe
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\WinFormsDesign.pdb
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\hr\WinFormsDesign.resources.dll
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\Utilities.dll
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\Newtonsoft.Json.dll
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\RestSharp.dll
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\Utilities.pdb
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\Newtonsoft.Json.xml
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\bin\Debug\RestSharp.xml
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.AssemblyReference.cache
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.SuggestedBindingRedirects.cache
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MainForm.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MessageRes.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TeamForm.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TypeOfConnectionForm.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.Properties.Resources.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.GamesUC.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerCardsUC.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerGoalsUC.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerUC.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MainForm.hr.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.MessageRes.hr.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TeamForm.hr.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.TypeOfConnectionForm.hr.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.GamesUC.hr.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerCardsUC.hr.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerGoalsUC.hr.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.UserControls.PlayerUC.hr.resources
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.GenerateResource.cache
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.CoreCompileInputs.cache
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\hr\WinFormsDesign.resources.dll
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.exe.manifest
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.application
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.csproj.CopyComplete
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.exe
+D:\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\TypeOfConnection\obj\Debug\WinFormsDesign.pdb

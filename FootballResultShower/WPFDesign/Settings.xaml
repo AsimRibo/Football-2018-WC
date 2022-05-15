@@ -1,0 +1,64 @@
+﻿<Window x:Class="WPFDesign.Settings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFDesign"
+        xmlns:lang="clr-namespace:WPFDesign.Properties"
+        mc:Ignorable="d"
+        Title="{x:Static lang:Resources.settingsTitle}" Height="350" Width="600" Loaded="Window_Loaded"
+        WindowStartupLocation="CenterScreen" FontFamily="Comic Sans MS">
+
+    <Window.Resources>
+        <Style x:Key="buttonStyle" TargetType="{x:Type Button}">
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5" />
+                </Style>
+            </Style.Resources>
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="FontFamily" Value="Comic Sans MS" />
+            <Setter Property="FontSize" Value="23" />
+            <Setter Property="Background" Value="#33e851" />
+        </Style>
+    </Window.Resources>
+    
+    <Grid Background="{StaticResource ResourceKey=diagonalGradient}">
+        <Grid.Triggers>
+            <StaticResourceExtension ResourceKey="diagonalGradientAnimation"/>
+        </Grid.Triggers>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.3*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="1.2*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="1.2*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="1" Grid.Column="1" Content="{x:Static lang:Resources.typeOfChampString}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label Grid.Row="2" Grid.Column="1" Content="{x:Static lang:Resources.languageString}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label Grid.Row="3" Grid.Column="1" Content="{x:Static lang:Resources.screenSizeString}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Button Style="{StaticResource buttonStyle}" x:Name="btnSave" Click="btnSave_Click" Grid.Column="2" Grid.Row="5" Content="{x:Static lang:Resources.saveString}" Width="90" Height="40" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+        <RadioButton x:Name="rbTypeFirst" Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" GroupName="TypeOfChamp" HorizontalAlignment="Center" Content="Male"></RadioButton>
+        <RadioButton x:Name="rbTypeSecond" GroupName="TypeOfChamp" Grid.Row="1" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center" Content="Female"></RadioButton>
+        <RadioButton Grid.Row="2" GroupName="Language" Grid.Column="2" Content="hr" x:Name="rbLanguageFirst" VerticalAlignment="Center" HorizontalAlignment="Center" ></RadioButton>
+        <RadioButton Grid.Row="2" x:Name="rbLanguageSecond" GroupName="Language"  Grid.Column="3" Content="en" VerticalAlignment="Center" HorizontalAlignment="Center" ></RadioButton>
+        <ComboBox x:Name="cbScreenSize" Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="2" Margin="10" Width="220" Height="35" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+        </ComboBox>
+        <Label Grid.Row="4" Grid.Column="1" Content="{x:Static lang:Resources.connectionTypeString}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <RadioButton Grid.Row="4" GroupName="Connection" Grid.Column="2" Content="Online" x:Name="rbConnectionFirst" VerticalAlignment="Center" HorizontalAlignment="Center" ></RadioButton>
+        <RadioButton Grid.Row="4" x:Name="rbConnectionSecond" GroupName="Connection"  Grid.Column="3" Content="Offline" VerticalAlignment="Center" HorizontalAlignment="Center" ></RadioButton>
+    </Grid>
+</Window>

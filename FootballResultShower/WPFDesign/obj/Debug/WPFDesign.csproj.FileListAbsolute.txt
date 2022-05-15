@@ -1,0 +1,136 @@
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\bin\Debug\WPFDesign.exe.config
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\bin\Debug\WPFDesign.exe
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\bin\Debug\WPFDesign.pdb
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\bin\Debug\Utilities.dll
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\bin\Debug\RestSharp.dll
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\bin\Debug\Utilities.pdb
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\bin\Debug\RestSharp.xml
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.AssemblyReference.cache
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\MainWindow.g.cs
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\PlayerUC.g.cs
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\App.g.cs
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\WPFDesign_MarkupCompile.cache
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\WPFDesign_MarkupCompile.lref
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\MainWindow.baml
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\PlayerUC.baml
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.g.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.Properties.Resources.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.GenerateResource.cache
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.CoreCompileInputs.cache
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.CopyComplete
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.exe
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.pdb
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\Settings.g.cs
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\Settings.baml
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\TeamInfoWindow.g.cs
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\TeamInfoWindow.baml
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\PlayerInfoWindow.g.cs
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\PlayerInfoWindow.baml
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\App.baml
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\bin\Debug\hr\WPFDesign.resources.dll
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.Properties.Resources.hr.resources
+C:\Users\asim2\Desktop\Provjere\PocetakWPF\FootballResultShower\WPFDesign\obj\Debug\hr\WPFDesign.resources.dll
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\bin\Debug\WPFDesign.exe.config
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\bin\Debug\WPFDesign.exe
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\bin\Debug\WPFDesign.pdb
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\bin\Debug\hr\WPFDesign.resources.dll
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\bin\Debug\Utilities.dll
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\bin\Debug\RestSharp.dll
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\bin\Debug\Utilities.pdb
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\bin\Debug\RestSharp.xml
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.AssemblyReference.cache
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\MainWindow.g.cs
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\PlayerInfoWindow.g.cs
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\PlayerUC.g.cs
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\Settings.g.cs
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\TeamInfoWindow.g.cs
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\App.g.cs
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\WPFDesign_MarkupCompile.cache
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\WPFDesign_MarkupCompile.lref
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\App.baml
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\MainWindow.baml
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\PlayerInfoWindow.baml
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\PlayerUC.baml
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\Settings.baml
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\TeamInfoWindow.baml
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.g.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.Properties.Resources.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.Properties.Resources.hr.resources
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.GenerateResource.cache
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.CoreCompileInputs.cache
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\hr\WPFDesign.resources.dll
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.CopyComplete
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.exe
+C:\Users\asim2\Desktop\Provjere\prepravakPrintanja\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.pdb
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\WPFDesign.exe.config
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\WPFDesign.exe
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\WPFDesign.pdb
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\hr\WPFDesign.resources.dll
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\Utilities.dll
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\RestSharp.dll
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\Utilities.pdb
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\RestSharp.xml
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.AssemblyReference.cache
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\MainWindow.g.cs
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\PlayerInfoWindow.g.cs
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\PlayerUC.g.cs
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\Settings.g.cs
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\TeamInfoWindow.g.cs
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\App.g.cs
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign_MarkupCompile.cache
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign_MarkupCompile.lref
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\App.baml
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\MainWindow.baml
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\PlayerInfoWindow.baml
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\PlayerUC.baml
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\Settings.baml
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\TeamInfoWindow.baml
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.g.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.Properties.Resources.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.Properties.Resources.hr.resources
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.GenerateResource.cache
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.CoreCompileInputs.cache
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\hr\WPFDesign.resources.dll
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.CopyComplete
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.exe
+C:\Users\asim2\Desktop\Provjere\konacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.pdb
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\WPFDesign.exe.config
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\WPFDesign.exe
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\WPFDesign.pdb
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\hr\WPFDesign.resources.dll
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\Utilities.dll
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\RestSharp.dll
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\Utilities.pdb
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\bin\Debug\RestSharp.xml
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.AssemblyReference.cache
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\MainWindow.g.cs
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\PlayerInfoWindow.g.cs
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\PlayerUC.g.cs
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\Settings.g.cs
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\TeamInfoWindow.g.cs
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\App.g.cs
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign_MarkupCompile.cache
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign_MarkupCompile.lref
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\App.baml
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\MainWindow.baml
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\PlayerInfoWindow.baml
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\PlayerUC.baml
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\Settings.baml
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\TeamInfoWindow.baml
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.g.resources
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.Properties.Resources.resources
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.Properties.Resources.hr.resources
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.GenerateResource.cache
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.CoreCompileInputs.cache
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\hr\WPFDesign.resources.dll
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.csproj.CopyComplete
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.exe
+C:\Users\asim2\Desktop\ALGEBRA\OOP praktikum u NET\projekt - KonacnaVerzija\FootballResultShower\WPFDesign\obj\Debug\WPFDesign.pdb

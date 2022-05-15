@@ -1,0 +1,126 @@
+﻿<Window x:Class="WPFDesign.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                WindowStartupLocation="CenterScreen"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFDesign"
+        xmlns:lang="clr-namespace:WPFDesign.Properties"
+        mc:Ignorable="d"
+        Title="{x:Static lang:Resources.footballResultsTitle}" Height="600" Width="800" Loaded="Window_Loaded" Closing="Window_Closing" FontFamily="Comic Sans MS" KeyDown="Window_KeyDown">
+    <Window.Resources>
+        <Style x:Key="RoundedButton" TargetType="{x:Type Button}">
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="15" />
+                </Style>
+            </Style.Resources>
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="FontFamily" Value="Comic Sans MS" />
+            <Setter Property="FontSize" Value="23" />
+            <Setter Property="Background" Value="#45bd35" />
+            <Setter Property="Margin" Value="10" />
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="MouseEnter">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="Height" To="50" Duration="0:0:.5"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="MouseLeave">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="Height" To="40" Duration="0:0:.3"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+
+        <LinearGradientBrush x:Key="horizontalGradient" StartPoint="0,0.5" EndPoint="1,0.5">
+            <LinearGradientBrush.GradientStops>
+                <GradientStop Offset="0" Color="#28f74b" />
+                <GradientStop Offset="0" Color="#86f799" />
+                <GradientStop Offset="0" Color="#25e845" />
+                <GradientStop Offset="1" Color="#008516" />
+            </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+
+        <EventTrigger x:Key="horizontalGradientAnimation" RoutedEvent="Grid.Loaded">
+            <EventTrigger.Actions>
+                <BeginStoryboard>
+                    <Storyboard>
+                        <DoubleAnimation 
+                                    Storyboard.TargetProperty="Background.GradientStops[1].Offset"
+                                    To="1"  
+                                    Duration="0:0:7" 
+                                    AutoReverse="True" 
+                                    RepeatBehavior="Forever" />
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger.Actions>
+        </EventTrigger>
+    </Window.Resources>
+
+    <Grid Background="{StaticResource ResourceKey=horizontalGradient}">
+        <Grid.Triggers>
+            <StaticResourceExtension ResourceKey="horizontalGradientAnimation"/>
+        </Grid.Triggers>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="7*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="0.7*" ></ColumnDefinition>
+                <ColumnDefinition Width="0.4*"></ColumnDefinition>
+                <ColumnDefinition Width="0.7*"></ColumnDefinition>
+                <ColumnDefinition  Width="2*"></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition Width="0.5*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Button Height="40" Grid.Column="1" Style="{StaticResource ResourceKey=RoundedButton}" Content="Info" x:Name="btnHomeInfo" Click="btnHomeInfo_Click"/>
+            <Button Height="40" Grid.Column="7" Style="{StaticResource ResourceKey=RoundedButton}" Content="Info" x:Name="bntAwayInfo" Click="bntAwayInfo_Click"/>
+            <Label x:Name="lbFavTeamScore" Grid.Column="3" FontSize="50" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Label>
+            <Label x:Name="lbSecondTeamScore" Grid.Column="5" FontSize="50" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Label>
+            <ComboBox FontSize="16" SelectionChanged="cmbFavoriteTeam_SelectionChanged" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" x:Name="cmbFavoriteTeam" Height="40" Grid.Column="2" Margin="10"></ComboBox>
+            <Label Grid.Column="4" Content=":" FontSize="50" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Label>
+
+            <Button Grid.Column="10" Margin="10 0 0 10" Width="30" Height="30" VerticalAlignment="top" HorizontalAlignment="Right" x:Name="btnSettings" Click="btnSettings_Click">
+                <Image Source="Picture/settingsWheel.jpg" Height="25" Width="25" VerticalAlignment="Center" HorizontalAlignment="Center"></Image>
+            </Button>
+            <ComboBox FontSize="16"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" x:Name="cmbSecondTeam" Height="40" Grid.Column="6" Margin="10" SelectionChanged="cmbSecondTeam_SelectionChanged"></ComboBox>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="0.3*"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="0.3*"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.Background>
+                <ImageBrush ImageSource="Picture\field.jpg"/>
+            </Grid.Background>
+            <StackPanel Grid.Column="0" x:Name="homeGoalkeeperStackPanel" HorizontalAlignment="Center" VerticalAlignment="Center"></StackPanel>
+            <StackPanel Grid.Column="2" x:Name="homeDefenderStackPanel" HorizontalAlignment="Center" VerticalAlignment="Center"></StackPanel>
+            <StackPanel Grid.Column="3" x:Name="homeMidfielderStackPanel" HorizontalAlignment="Center" VerticalAlignment="Center"></StackPanel>
+            <StackPanel Grid.Column="4" x:Name="homeAttackStackPanel" HorizontalAlignment="Center" VerticalAlignment="Center"></StackPanel>
+            <StackPanel Grid.Column="6" x:Name="awayAttackStackPanel" HorizontalAlignment="Center" VerticalAlignment="Center"></StackPanel>
+            <StackPanel Grid.Column="7" x:Name="awayMidfielderStackPanel" HorizontalAlignment="Center" VerticalAlignment="Center"></StackPanel>
+            <StackPanel Grid.Column="8" x:Name="awayDefenderStackPanel" HorizontalAlignment="Center" VerticalAlignment="Center"></StackPanel>
+            <StackPanel Grid.Column="10" x:Name="awayGoalkeeperStackPanel" HorizontalAlignment="Center" VerticalAlignment="Center"></StackPanel>
+        </Grid>
+    </Grid>
+</Window>
